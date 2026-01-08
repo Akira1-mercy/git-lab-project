@@ -1,4 +1,4 @@
 print('Hello Git')
 print('Hello Git')
-print('Hello Git')
-print("Hello from feature-login")
+print('Hello from feature-login branch for conflict')
+
